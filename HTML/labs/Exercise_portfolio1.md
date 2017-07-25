@@ -5,7 +5,7 @@
 Start creating your personal portfolio with that tags we've gone through. Don't worry about the content too much in class.
 
 1. Create a new HTML file called `index.html`
-1. Go to [this file](https://www.dropbox.com/home/front-end%20101?preview=boilerplate.html) and paste the boilerplate into your HTML file.
+1. Go to [this file](https://github.com/Chelsea-Dover/front-end-101/blob/master/HTML/boilerplate.html) and paste the boilerplate into your HTML file.
 1. Create your portfolio using the tags we've gone over. You must at least include:
     - Some kind of list such as `ol`, `ul`, `dl`
     - `img` element
