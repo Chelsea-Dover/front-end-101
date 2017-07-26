@@ -3,12 +3,12 @@ Make sure your file name ends with .html
 
 Create a webpage using the HTML file and one of the mockups below.
 
-[HTML file](https://www.dropbox.com/home/Intro%20to%20Frontend?preview=zen_mockup.html)
+[HTML file](https://github.com/Chelsea-Dover/front-end-101/blob/master/CSS/labs/zen_lab/zen_index.html)
 
 [zen mockup](https://goo.gl/Up3uym)
 
 The colors used in the mockup are:
-	
+
 * #fff
 * #004F2D
 * #0A8754
@@ -22,7 +22,7 @@ The colors used in the mockup are:
 [Advanced mockup](https://goo.gl/ufeSIZ)
 
 The colors used in the advanced mockup are:
-	
+
 * #fff
 * #00A6A6
 * #EFCA08
@@ -54,6 +54,3 @@ The images used in the extra advanced mockup are:
 The font used in the extra advanced mockup is:
 
 * [Amatic SC](https://fonts.google.com/?query=Amatic+SC&selection.family=Amatic+SC)
-
-
-
