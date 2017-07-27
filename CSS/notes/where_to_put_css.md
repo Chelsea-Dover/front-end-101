@@ -7,7 +7,7 @@ There are three places to add css to your webpage.
 - external
 
 ## Inline
-Inline css is the least desirable out of the three because it can be quite hard for maintain. In the CSS hierarchy it is one of the most unique, therefor it will override almost all other CSS.
+Inline css is the least desirable out of the three because it can be quite hard to maintain. In the CSS hierarchy it is one of the most unique, therefor it will override almost all other CSS.
 
 The way to add inline style to your HTML is by using the `style` attribute. Here's an example:
 `<p style="background:red;">hello!</p>`
@@ -15,7 +15,7 @@ The way to add inline style to your HTML is by using the `style` attribute. Here
 ## Embedded
 Embedded css is the second least desirable out of the three. It's better than inline when it comes to maintenance but it's still not the best. In the CSS hierarchy it will act the same way as an external stylesheet, so how unique the style is will depend on the selectors you use.
 
-The way to add inline style to your HTML is by using the `<style>` tag in your html head. Here's an example:
+The way to add embedded style to your HTML is by using the `<style>` tag in your html head. Here's an example:
 ```
 <style>
   p {
