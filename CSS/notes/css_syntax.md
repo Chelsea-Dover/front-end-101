@@ -16,7 +16,7 @@ p {
 ```
 ![css syntax](http://i.imgur.com/BNV6orX.png "css syntax")
 
-Just like in HTML you can add comments in CSS. The syntax for that is a forward slash and then a star, followed by the content you want in the comment and ending with a mirror of the opening(a star followed by a backslash)
+Just like in HTML you can add comments in CSS. The syntax for that is a forward slash and then a star, followed by the content you want in the comment and ending with a mirror of the opening(a star followed by a forward slash)
 
 e.g.
 
