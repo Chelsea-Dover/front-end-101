@@ -22,6 +22,8 @@ Create navigation bar using CSS positioning
 		<li>green</li>
 		<li>blue</li>
 </ul>
+
+<img src="http://alimentotumascota.es/wp-content/uploads/2017/04/5507692-cat-m-1024x548-1024x548.png">
 ```
 - **Normal option** Paste the following CSS in you `position_style.css` file(if you decide to do this skip the next step) all styling is done with this option so you will only need to apply the `position` properties and the sub properties:
 
