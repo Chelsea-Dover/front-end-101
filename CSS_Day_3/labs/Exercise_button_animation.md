@@ -1,7 +1,7 @@
-# Exercise: Recreate layouts using flexbox
+# Exercise: Recreate animations in CSS
 
 ## Objective
-Recreate layouts using flexbox.
+Recreate animations in CSS
 
 - Go to [this pen](https://codepen.io/Chelsea-Dover/pen/rzOyaY?editors=1100) and fork it (the 'fork' button is in the top right corner).
 - Go [here](https://codepen.io/Chelsea-Dover/pen/ygNwej) and in your pen match the animations. You don't have to worry about the colors being different. Just focus on the effects.
