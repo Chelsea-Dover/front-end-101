@@ -35,7 +35,7 @@ Here's an example of a comment in HTML:
 `<!-- Merp derp you will never see this! -->`
 
 The result of that will be this(nothing redering):
-    
+
      
 
 The syntax for comments in HTMl are two arrows surrounding what you want to comment. The opening arrow consists of an angle bracket `<`, a bang `!` and two dashes `--`. The closing arrow is a mirror of the opening tag without the bang e.g. `-->`.
@@ -51,7 +51,7 @@ e.g.
 `-->`
 
 # Stacking elements
-When writting HTML it can get messy and confusing if you don't format the elements correctly. 
+When writting HTML it can get messy and confusing if you don't format the elements correctly.
 For example, look at this bit of HTML:
 `<article><p><a href="link"><img src="image.png/></a></p><p>Wow that is one cool picture!</p></article>`
 
@@ -81,3 +81,6 @@ That's slightly better but not by much. Let's add some indentation!
 </article>
 ```
 Now that looks much better! You can clearly see when an element starts and ends and what is in each element. For the second paragraph there was only a small bit of text so I felt there was no need for a new line and indentation. Play it by thumb and try to make it as readable for you as possible.
+
+
+If you'd like to see some real examples you can see the different types of lists [here](https://chelsea-dover.github.io/html_lists.html). There's also a page full of different HTML tags with their code  [here](https://chelsea-dover.github.io/basic_site.html)

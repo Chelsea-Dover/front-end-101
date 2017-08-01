@@ -7,3 +7,9 @@ Once you have finished an assignment send me the files(or if you used Codepen th
   - HTML tags(due Friday the 4th): link to exercise can be found [here](https://github.com/Chelsea-Dover/front-end-101/blob/master/HTML/labs/Exercise_tags.md)
   - Zen mockup(due Friday the 4th): link to exercise can be found [here](https://github.com/Chelsea-Dover/front-end-101/blob/master/CSS_Day_2/labs/zen_lab/zen_mockup.md)
   - CSS positioning exercise(due Friday the 4th): link to exercise can be found [here](https://github.com/Chelsea-Dover/front-end-101/blob/master/CSS_Day_2/labs/Exercise_position.md)
+
+**week 2**
+- Flexbox exercise(due Monday the 7th):
+    link to exercise can be found [here]()
+- Button animations(due Monday the 7th):
+    link to exercise can be found [here]()
