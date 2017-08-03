@@ -13,3 +13,5 @@ Once you have finished an assignment send me the files(or if you used Codepen th
     link to exercise can be found [here](https://github.com/Chelsea-Dover/front-end-101/blob/master/CSS_Day_3/labs/flexbox_lab/Exercise_flexbox.md)
 - Button animations(due Monday the 7th):
     link to exercise can be found [here](https://github.com/Chelsea-Dover/front-end-101/blob/master/CSS_Day_3/labs/Exercise_button_animation.md)
+- Moving bear(due Monday the 7th):
+    link to exercise can be found [here]()
