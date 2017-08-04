@@ -27,4 +27,4 @@ Example can be found [here](https://youtu.be/0HXDoAQ-quc)
 ---
 **Advanced**
 
-Do the same exercise as above but try using jquery.
+Do the same exercise as above but try using jQuery.

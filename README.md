@@ -14,4 +14,4 @@ Once you have finished an assignment send me the files(or if you used Codepen th
 - Button animations(due Monday the 7th):
     link to exercise can be found [here](https://github.com/Chelsea-Dover/front-end-101/blob/master/CSS_Day_3/labs/Exercise_button_animation.md)
 - Moving bear(due Monday the 7th):
-    link to exercise can be found [here]()
+    link to exercise can be found [here](https://github.com/Chelsea-Dover/front-end-101/blob/master/JS/labs/Exercise_moving_bear.md)
