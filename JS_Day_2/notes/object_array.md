@@ -44,8 +44,9 @@ fruitToPrice['banana'];  //> undefined
 
 ## Arrays
 
-You can get and set values at an index in an array just like Python, using `[]` subscripting.
-Arrays also have a length property.
+Array indexes are zero-based: The first element in the array is 0, the second is 1, and so on.
+
+You can get and set values at an index in an array using `[]` subscripting. Arrays also have a length property.
 
 ```js
 var fruits = ['apple', 'pear'];
