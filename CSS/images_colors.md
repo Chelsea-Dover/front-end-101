@@ -22,7 +22,7 @@ Their biggest downsides of GIF are that they are limited to 256 colors and that 
 
 Extensions: `.jpg`, `.jpeg`
 
-[JPEG](https://en.wikipedia.org/wiki/JPEG) (which stands for Joint Photographic Experts Group) is the preferred delivery format for photographs and images with gradients due to the its ability to compress large, complex images to small filesizes.
+[JPEG](https://en.wikipedia.org/wiki/JPEG) (which stands for Joint Photographic Experts Group) is the preferred delivery format for photographs and images with gradients due to the its ability to compress large, complex images to small file sizes.
 
 ![JPEG showing decreasing compression from left to right](https://upload.wikimedia.org/wikipedia/commons/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png)
 
@@ -38,7 +38,7 @@ Like GIF, [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) is a �
 
 For example, most product images on [www.apple.com](http://www.apple.com) are PNGs. One of their advantages is that they provide an [alpha-channel](https://en.wikipedia.org/wiki/Alpha_compositing) which allows you to set certain parts of the image as transparent.
 
-Their downside is filesize. A high-quality PNG is going to be around 5× the filesize of the equivalent JPEG (approximately, depending on the JPEG compression settings), though PNGs are usually smaller than their equivalent GIFs.
+Their downside is file size. A high-quality PNG is going to be around 5× the file size of the equivalent JPEG (approximately, depending on the JPEG compression settings), though PNGs are usually smaller than their equivalent GIFs.
 
 ### PNG8
 
@@ -46,7 +46,7 @@ The PNG8 format (the “8” stands for the fact it stores 8 bits of information
 
 ### PNG24
 
-PNG24 (the “24” stands for 24-bit, though in reality it stores up to 64 bits of information per pixel in certain configurations) provides full-color and lossless compression. Its main downside is large filesizes.
+PNG24 (the “24” stands for 24-bit, though in reality it stores up to 64 bits of information per pixel in certain configurations) provides full-color and lossless compression. Its main downside is large file sizes.
 
 _Note: This isn’t as much of a concern these days, but versions 4 through 8 of Internet Explorer had a [variety of problems](https://en.wikipedia.org/wiki/Portable_Network_Graphics#Web_browser_support_for_PNG) correctly rendering PNGs._
 
@@ -62,7 +62,7 @@ Extension: `.svg`
 
 SVG as a format has been around since 1999, but it’s only really seen widespread adoption in the last couple of years as [browser support](http://caniuse.com/#search=svg) finally became more or less uniform.
 
-As a vector format, SVG filesizes can be truly tiny for simple shapes and flat-color art and gradients (e.g., website icons). It’s not well-suited for photographic content.
+As a vector format, SVG file sizes can be truly tiny for simple shapes and flat-color art and gradients (e.g., website icons). It’s not well-suited for photographic content.
 
 ![Darth Vader](http://thecraftchop.com/files/images/darth_1.svg)
 
@@ -80,7 +80,7 @@ Browsers look for what’s called a [favicon](https://en.wikipedia.org/wiki/Favi
 
 Extension: `.bmp`
 
-Don’t use BMP for anything other than a favicon. It offers no advantage over other formats and the filesizes are huge.
+Don’t use BMP for anything other than a favicon. It offers no advantage over other formats and the file sizes are huge.
 
 ---
 

@@ -21,7 +21,7 @@ Forms consist of one or more of various types of form fields including text inpu
 
 ### Text inputs
 
-There are two common types of text inputs: plain text and passwords. It is also possible to designate text inputs as numbers, telephone numbers, email addresses, dates, and other specific foramts. The specialized types of text inputs aren’t widely supported yet, but you can use them safely because they will fallback to being plain text inputs on browsers where they’re not supported.
+There are two common types of text inputs: plain text and passwords. It is also possible to designate text inputs as numbers, telephone numbers, email addresses, dates, and other specific formats. The specialized types of text inputs aren’t widely supported yet, but you can use them safely because they will fallback to being plain text inputs on browsers where they’re not supported.
 
 Examples:
 

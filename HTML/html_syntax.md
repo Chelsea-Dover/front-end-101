@@ -9,11 +9,11 @@ The result of that will be :
 
     You only live once, but if you do it right, once is enough.
 
-The HTML element starts with an opening tag which consists of two angle brackets with the type of tag between them. e.g. `<p>`. there are many more types of tags and each one has a different purposes for instance, the `<p>` tag is for paragraphs and the `<nav>` tag is for navigation.
+The HTML element starts with an opening tag which consists of two angle brackets with the type of tag between them. e.g. `<p>`. There are many more types of tags and each one has a different purposes for instance, the `<p>` tag is for paragraphs and the `<nav>` tag is for navigation.
 
-After the start of the element has been defind we can add substance to it. There are many options for what to put inside your element such as text, or another element but there are a few rules. For instance it's bad practice to put images in an h1 tag.
+After the start of the element has been defined we can add substance to it. There are many options for what to put inside your element such as text, or another element but there are a few rules. For instance it's bad practice to put images in an h1 tag.
 
-To close the element place the closing tag below everything you want inside the element. The closing tag will to almost identical to the opening tag. The only differnce is a forward slash before the tag name. e.g. `</p>`.
+To close the element place the closing tag below everything you want inside the element. The closing tag will to almost identical to the opening tag. The only difference is a forward slash before the tag name. e.g. `</p>`.
 
 ## Self-closing elements
 Here's an example of a self-closing element:
@@ -22,7 +22,7 @@ Here's an example of a self-closing element:
 The result of that will be :
 ![alt text](http://lorempixel.com/output/cats-q-c-100-100-1.jpg "placeholder image")
 
-Some HTML elements can't contain anything therefor don't need a seprate closing bracket. We call these self-closing elements. Most(but not all. for example the `<br>` tag will add a line brake but wont be displayed) of these elements contain attributes that provide information on what content to show. The forward slash on self-closing tags are stylistic preference that you can either include or not.
+Some HTML elements can't contain anything therefor don't need a separate closing bracket. We call these self-closing elements. Most of these elements contain attributes that provide information on what content to show. The forward slash on self-closing tags are stylistic preference that you can either include or not.
 
 ## HTML attributes
 Here's an example of an HTML element with attributes:
@@ -34,7 +34,7 @@ and `style`(specifies an inline CSS style for an element).
 Here's an example of a comment in HTML:
 `<!-- Merp derp you will never see this! -->`
 
-The result of that will be this(nothing redering):
+The result of that will be this(nothing rendering):
 
      
 
@@ -51,7 +51,7 @@ e.g.
 `-->`
 
 # Stacking elements
-When writting HTML it can get messy and confusing if you don't format the elements correctly.
+When writing HTML it can get messy and confusing if you don't format the elements correctly.
 For example, look at this bit of HTML:
 `<article><p><a href="link"><img src="image.png/></a></p><p>Wow that is one cool picture!</p></article>`
 
